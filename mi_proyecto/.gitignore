@@ -1,0 +1,5 @@
+# el archivo .gitignore sirve para, como su nombre lo indica, pedirle explicitamente a git que ignore algun archivo basura o que en realidad no hace falta mostrarse en el trabajo final. Un ejemplo practico para este proyecto es decirle a git que ignore mis archivos personales como algun .txt que use para guiarme o en cosas mas complejas como archivos de codigo compilado como los .o, .pyc, .class. 
+# Tambien me podria servir para decirle a git que ignore los archivos ocultos del sistema como los .ds, .store o thumbs.db.
+# Para usar el gitignore, se ponene los archivos aqui, como es un archivo .txt, todo lo que este dentro de este archivo, git lo ignorara y para añadir comentarios como estos y no generarle conflictos a git, se usa el simbolo "#".
+
+.github/
