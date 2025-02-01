@@ -2,3 +2,4 @@
 # Tambien me podria servir para decirle a git que ignore los archivos ocultos del sistema como los .ds, .store o thumbs.db.
 # Para usar el gitignore, se ponene los archivos aqui, como es un archivo .txt, todo lo que este dentro de este archivo, git lo ignorara y para añadir comentarios como estos y no generarle conflictos a git, se usa el simbolo "#".
 
+.github
