@@ -9,10 +9,10 @@ Se evaluara la organizacion del proyecto, la calidad y claridad de la documentac
 ## Tabla de contenidos
 |  Enlaces a los archivos .md |Nombre de la direccíon|
 |-------|------|
-|[Como hacer un repositorio local](mi_proyecto\docs\repositorio_local.md) |repositorio_local.md|  
-|[Como hacer un repositorio remoto](mi_proyecto\docs\repositorio_remoto.md)|repositorio_remoto.md|
-|[Comandos basicos para usar en git](mi_proyecto\docs\uso_consola.md)|uso_consola.md|
-|[Evidencias del uso de git](mi_proyecto\docs\usodegit.md)|usodegit.md|
+|[Como hacer un repositorio local](https://github.com/hacUPB/funpro-2510-git-github-SamuelJ915/blob/main/mi_proyecto/docs/repositorio_local.md) |repositorio_local.md|  
+|[Como hacer un repositorio remoto](https://github.com/hacUPB/funpro-2510-git-github-SamuelJ915/blob/main/mi_proyecto/docs/repositorio_remoto.md)|repositorio_remoto.md|
+|[Comandos basicos para usar en git](https://github.com/hacUPB/funpro-2510-git-github-SamuelJ915/blob/main/mi_proyecto/docs/uso_consola.md)|uso_consola.md|
+|[Evidencias del uso de git](https://github.com/hacUPB/funpro-2510-git-github-SamuelJ915/blob/main/mi_proyecto/docs/usodegit.md)|usodegit.md|
  
 
 ### Como clonar este proyecto
